@@ -95,7 +95,7 @@ echo "author: {$product->getProducer()}";
 
 /*
  * 注意:
- * 现在,ShopProduct对象更易于实例化,使用起来也更安全,实例化和初始化只需要一局话即可.
+ * 现在,ShopProduct对象更易于实例化,使用起来也更安全,实例化和初始化只需要一句话即可.
  * 而且可以确信,任何使用ShopProduct对象的代码中的属性都已经被初始化了.
  */
 
